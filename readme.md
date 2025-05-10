@@ -1,7 +1,3 @@
-Okay, here is the consolidated documentation for the AI Dermatologist Assistant project.
-
----
-
 # AI Dermatologist Assistant - Project Documentation
 
 ## 1. Introduction
